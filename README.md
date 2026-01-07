@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a developer interested in IoT, Android apps, and smart solutions. I love building projects that solve real-world problems and learning new technologies along the way.
+I am a passionate learner with a strong interest in Artificial Intelligence and Machine Learning, focused on transforming data into meaningful insights. I enjoy working on real-world problems involving data analysis, predictive modeling, and intelligent systems. Continuously exploring new AI/ML tools and techniques, I aim to build scalable, impactful solutions while growing as a responsible and skilled AI professional.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ I am a developer interested in IoT, Android apps, and smart solutions. I love bu
 ![](https://nirzak-streak-stats.vercel.app/?user=JAINAM-11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAINAM-11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JAINAM-11&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,4 +19,3 @@ I am a developer interested in IoT, Android apps, and smart solutions. I love bu
 ---
 [![](https://visitcount.itsvg.in/api?id=JAINAM-11&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
